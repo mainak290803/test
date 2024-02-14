@@ -1,1 +1,4 @@
 we have to add some text
+after pushing the file1 into remote repository....
+we modified the file ..
+Now if we see git status we will notice that it will say file1 is modified
